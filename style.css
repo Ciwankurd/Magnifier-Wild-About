@@ -13,7 +13,16 @@
     --borderbla: #0071cd;
     --darkbla: #052b79;
 }
-
+#homeBtn{
+    font-size: 30px;
+    margin: 1%;
+    background-color: dimgray;
+    border-radius: 8px;
+    color: white;
+}
+#homeBtn:hover{
+    background-color: olivedrab;
+}
 html {
     height: 100%;
 }
